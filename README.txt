@@ -22,6 +22,8 @@
 - bmp картинки(Консоль) [C:\Users\acer\source\repos\GalaxyConsole\GalaxyConsole\bin\Debug\net8.0]
 - bmp картинки(UI) [Выбираете сами]
 
+Ссылка на GitHub:
+[https://github.com/IsmadiyarZ/Galaxy-Generator.git]
 
 
 
