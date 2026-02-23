@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\bin\Debug\net8.0\GalaxyLib.deps.json
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\bin\Debug\net8.0\GalaxyLib.dll
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\bin\Debug\net8.0\GalaxyLib.pdb
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\obj\Debug\net8.0\GalaxyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\obj\Debug\net8.0\GalaxyLib.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\obj\Debug\net8.0\GalaxyLib.AssemblyInfo.cs
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\obj\Debug\net8.0\GalaxyLib.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\obj\Debug\net8.0\GalaxyLib.dll
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\obj\Debug\net8.0\refint\GalaxyLib.dll
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\obj\Debug\net8.0\GalaxyLib.pdb
+C:\Users\acer\source\repos\GalaxyConsole\GalaxyLib\obj\Debug\net8.0\ref\GalaxyLib.dll

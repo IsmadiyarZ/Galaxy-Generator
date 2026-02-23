@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalaxyConsole", "GalaxyConsole\GalaxyConsole.csproj", "{25E00031-E566-43A4-B166-F0CEE86FF5EB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{64554902-D5C4-4017-A560-15736652A7A6} = {64554902-D5C4-4017-A560-15736652A7A6}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalaxyLib", "GalaxyLib\GalaxyLib.csproj", "{64554902-D5C4-4017-A560-15736652A7A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalaxiyGUI", "GalaxiyGUI\GalaxiyGUI.csproj", "{4DF9E89B-3794-42CB-B0AE-EE0A8855E669}"
+	ProjectSection(ProjectDependencies) = postProject
+		{64554902-D5C4-4017-A560-15736652A7A6} = {64554902-D5C4-4017-A560-15736652A7A6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge", "Merge\Merge.csproj", "{F62F14B2-ABF2-4A0E-B429-E5249AF8CA1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25E00031-E566-43A4-B166-F0CEE86FF5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E00031-E566-43A4-B166-F0CEE86FF5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E00031-E566-43A4-B166-F0CEE86FF5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E00031-E566-43A4-B166-F0CEE86FF5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64554902-D5C4-4017-A560-15736652A7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64554902-D5C4-4017-A560-15736652A7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64554902-D5C4-4017-A560-15736652A7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64554902-D5C4-4017-A560-15736652A7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF9E89B-3794-42CB-B0AE-EE0A8855E669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF9E89B-3794-42CB-B0AE-EE0A8855E669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF9E89B-3794-42CB-B0AE-EE0A8855E669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF9E89B-3794-42CB-B0AE-EE0A8855E669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62F14B2-ABF2-4A0E-B429-E5249AF8CA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62F14B2-ABF2-4A0E-B429-E5249AF8CA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62F14B2-ABF2-4A0E-B429-E5249AF8CA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62F14B2-ABF2-4A0E-B429-E5249AF8CA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20C4A863-94BF-485E-B06B-0CBF21302CAF}
+	EndGlobalSection
+EndGlobal
